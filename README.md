@@ -1,2 +1,2 @@
 # xpwi.github.io
-java997.com
+www.java997.com
